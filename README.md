@@ -8,7 +8,7 @@
 <h2>Linking GitHub to Webstorm</h2>
 <p>With that done,press Ctrl+Alt+S,click Version Control, click Git, and then enter the path to the git.exe.</p>
 <h2>Adding a Password to Webstorm</h2>
-<p>Press Ctrl+Alt+S again,and clickAppearance and Behavior,System Settings and then Passwords. Add a location for the password file and then click OK.</p>
+<p>Press Ctrl+Alt+S again,and click Appearance and Behavior,System Settings and then Passwords. Add a location for the password file and then click OK.</p>
 <h2>Creating a Repository</h2>
 <p>With the setup out of the way, go back to the GitHub account you created and click the plus in the top right corner.Then, click New Repository. Name it, and check the box that adds a README file.</p>
 <p>Now, open back up Webstorm. Click Version Control on the bottom left and click Create Git Repository. Name the file, and then click OK.</p>
